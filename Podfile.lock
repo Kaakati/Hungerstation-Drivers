@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - Eureka (4.0.1)
+  - ObjectMapper (3.1.0)
+  - PKHUD (5.0.0)
+  - Realm (3.1.0):
+    - Realm/Headers (= 3.1.0)
+  - Realm/Headers (3.1.0)
+  - RealmSwift (3.1.0):
+    - Realm (= 3.1.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (~> 5.0)
+  - Eureka
+  - PKHUD (~> 5.0)
+  - RealmSwift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  Eureka: c8bd5cc07143b6f66268c208d28a246c99b41955
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  Realm: 09513d7c054678d65cd02ce09871f805b0d758ac
+  RealmSwift: e868fee9b10e5490ad94b6b6ecd9027944da1824
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: c0c20e2df2fe28cbec57eca1d04eb915a039ae76
+
+COCOAPODS: 1.2.1
